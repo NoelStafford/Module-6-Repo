@@ -1,16 +1,17 @@
 # Project Title
+Weather Dashboard
 
 ## Description
 
-Description text
+This assignment helped me in learning how to link an API and retrieve information from it. Then after getting the information being able to display that information to the user. In this scenario we are gonna use a weather api to get the current forecast of a city and then the following five day forecast. It will show the user the city and date for the current weather. For each day including the current day it will display the day, temperature, humidity, and wind speed.
 
 While building this project I learned to:
 
-- List
+1. 
 
 ### Built With
 
-[![Template Shield](https://img.shields.io/badge/Template-000000?&style=for-the-badge)](#)
+HTML, CSS, JavaScript
 
 ## Table of Contents
 - [Installation](#installation)
@@ -22,42 +23,27 @@ While building this project I learned to:
 - [Acknowledgments](#acknowledgments)
 
 ## Installation
-Install comment: 
+No installation needed just follow the link provided under usage.
 
-1. Numbered List
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Usage
-1. Numbered List
+1. Follow this link 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contributing
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
+If you can think of anything to help improve this please feel free to add it and send it to me through the contact information below. I would like to thank my classmates and TA's as well as my teacher for assissting in everything that I would need in order to do this assignment.
 
-1. Fork the Project
-2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
-3. Commit your Changes (git commit -m 'Add some AmazingFeature')
-4. Push to the Branch (git push origin feature/AmazingFeature)
-5. Open a Pull Request
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Tests
-
-### Test 1
-Test Description
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## License
-
-Distributed under the XXX License. See [LICENSE](./LICENSE) for more information.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contact
 
 For any further questions feel free to contact me via:
-- GitHub: [GitHub Username](#)
-- Email: [Your Email](mailto:#)
-- LinkedIn: [Name on LinkedIn](#)
+- GitHub: [NpelStafford](#)
+- Email: [noeljordan34@gmail.com](mailto:#)
+- LinkedIn: [Noel Stafford](#)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Acknowledgments
